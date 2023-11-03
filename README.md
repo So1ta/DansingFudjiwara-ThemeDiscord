@@ -7,7 +7,7 @@
 
 1. Для работы темы нужно установить [BetterDiscord](https://betterdiscord.app/themes).
 
-2. Файл "Dansing_Fujiwara.theme" нужно перекинуть в папку Themes.
+2. Файл "Dansing_Fujiwara.theme.css" нужно перекинуть в папку Themes.
 
 ## English version
 
@@ -17,7 +17,7 @@ Theme for Discord - Dansing Fudjiwara
 
 1. For the theme to work you need [BetterDiscord](https://betterdiscord.app/themes).
 
-2. The file "Dansing_Fujiwara.theme" must be transferred to the Themes.
+2. The file "Dansing_Fujiwara.theme.css" must be transferred to the Themes.
 
 ## Thanks
 
