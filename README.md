@@ -1,5 +1,5 @@
 # DansingFudjiwara-ThemeDiscord
-![Image alt](https://So1ta.github.io/Images/ThemeView.png)
+![Image alt](https://So1ta.github.io/Images/Fudjiwara.png)
 
 Тема для Discord под названием Dansing Fudjiwara
 
